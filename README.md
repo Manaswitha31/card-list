@@ -40,7 +40,7 @@ npm run build
 - Clean, readable code and comments
 
 ## Source Control
-- Git is initialized. Please push to your own remote repository for submission.
+- Git is initialized.
 
 ---
 
